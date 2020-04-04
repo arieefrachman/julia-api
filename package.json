@@ -1,0 +1,17 @@
+{
+  "name": "julia-api",
+  "version": "1.0.0",
+  "description": "for fun",
+  "main": "index.js",
+  "author": "Arif Rakhman, Eben Haezer BM",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/boom": "^9.1.0",
+    "ajv": "^6.12.0",
+    "async": "^3.2.0",
+    "dotenv": "^8.2.0",
+    "fastify": "^2.13.0",
+    "fastify-mongodb": "^2.0.0",
+    "mongoose": "^5.9.7"
+  }
+}
