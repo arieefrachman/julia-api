@@ -16,9 +16,4 @@ module.exports = (fastify) => {
             })
         }
     });
-
-    fastify.get('/ping', async (request, reply) => {
-        return { status: 'success' }
-    })
-
 };
